@@ -1,31 +1,30 @@
 # IMU-Ultrasound-Probe-Support
 
-**The probe support is a device that keeps a medical scanning probe stable and fixed as the user moves his hand around the body.**
+This custom support equips a [Siemens Acuson Cypress](https://www.ultrasoundportables.com/by-manufacturer/siemens-acuson/siemens-acuson-cypress) US probe with a mounting point for [commercial IMUs](https://mbientlab.com/store/pocket-clip-kit-for-mmrl/), enabling probe orientation tracking. The support can also be colored (via paint or tape) to facilitate position tracking with an RGB D camera.
 
-![](Media/ÉTS-Large.png)
+![](Media/cover.png)
 
-The main characteristics of the product are the following :
-- It is designed to stay in place and avoid any sliding of the parts one against eachother 
-- It has an offset from the user's finger whilst gripping properly to the non-flexible part 
-- It is replicable, meaning that it can be easily 3D printed to have a copy when needed 
-- It is designed so as to easily be placed the same way everytime it is removed 
-- It does not have any electromagnetic interference 
+## Design
 
-## Initial ideas (brainstorming)
+<ins>The main design goals were the following</ins>
 
-- The parts have a conical hole to match the shape of the cable.  
-- Sharp edges are replaced with rounded edges to avoid stress concentrations. 
+* Ensure the support can be tightly secured to the probe, while also being removable. 
+* Provide a sufficient distance between the assembly and the sonographer's fingers to ensure an ergonomic grip.
+* Make the support replicable meaning it can be easily 3D printed to have a copy when needed.
 
-## Here are the views of the device in it's final version 
+The support is composed of 2 parts that slide into each other to lock and embrace the shape of the probe's base (where the wire meets the probe). Once positioned, the support can be secured with a zip tie and glue (see image below).
 
-#### Top isometric view 
+![](Media/mounted.png)
 
-![](Media/TopIsometricView.png)
+## Views of the assembly
 
-#### Bottom isometric view with parts separated 
+**<p align="center">Top isometric view</p>**
+![](Media/top_isometric_view.png)
 
-![](Media/BottomIsometricView.png)
+**<p align="center">Bottom isometric view with parts separated</p>**
+![](Media/bottom_isometric_view.png)
 
-#### Top view 
+**<p align="center">Top view</p>**
+![](Media/top_view.png)
 
-![](Media/TopView.png)
+Credits : [Mobin Mir Shekari](https://www.linkedin.com/in/mobinmirshekari/)
