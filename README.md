@@ -1,4 +1,4 @@
-# IMU-Ultrasound-Probe-Support
+# IMU Support
 
 This custom support equips a [Siemens Acuson Cypress](https://www.ultrasoundportables.com/by-manufacturer/siemens-acuson/siemens-acuson-cypress) US probe with a mounting point for [commercial IMUs](https://mbientlab.com/store/pocket-clip-kit-for-mmrl/), enabling probe orientation tracking. The support can also be colored (via paint or tape) to facilitate position tracking with an RGB D camera.
 
