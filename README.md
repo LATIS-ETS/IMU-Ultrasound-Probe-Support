@@ -18,13 +18,13 @@ The support is composed of 2 parts that slide into each other to lock and embrac
 
 ## Views of the assembly
 
-**<p align="center">Top isometric view</p>**
+**Top isometric view**
 ![](Media/top_isometric_view.png)
 
-**<p align="center">Bottom isometric view with parts separated</p>**
+**Bottom isometric view with parts separated**
 ![](Media/bottom_isometric_view.png)
 
-**<p align="center">Top view</p>**
+**Top view**
 ![](Media/top_view.png)
 
 Credits : [Mobin Mir Shekari](https://www.linkedin.com/in/mobinmirshekari/)
