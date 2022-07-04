@@ -4,7 +4,7 @@ This custom support equips a [Siemens Acuson Cypress](https://www.ultrasoundport
 
 ![](Media/cover.png)
 
-## Design
+## Support design
 
 <ins>The main design goals were the following</ins>
 
